@@ -35,10 +35,14 @@
 ## Installation
 
 ## Advancement
-12-10 
+12/10 
       -definition techno et thème.
       -recherche api utilisable en relation avec le thème.
       - maquette et mind map du projet.
+13/10
+      -suite mappage site
+      -check auprès des "concurrent"
+      -maquette visuel site (v1)
 ## Usage
 
 ### Screenshots
