@@ -43,6 +43,7 @@
       -suite mappage site
       -check auprès des "concurrent"
       -maquette visuel site (v1)
+      -découverte composer 
 ## Usage
 
 ### Screenshots
