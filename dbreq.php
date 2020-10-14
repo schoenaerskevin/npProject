@@ -8,7 +8,7 @@ try
 {
     //! mise en comment de la ligne qui ne correspond pas
     
-    $bdd = new PDO('mysql:host=database;dbname=npProject', 'root', 'root');
+    $bdd = new PDO('mysql:host=database;dbname=bees', 'root', 'root');
     
 }
 //error

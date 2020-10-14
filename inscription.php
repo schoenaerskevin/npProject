@@ -7,7 +7,7 @@ if(isset($_POST['forminscription'])) {
    $mail2 = htmlspecialchars($_POST['mail2']);
    $mdp = sha1($_POST['mdp']);
    $mdp2 = sha1($_POST['mdp2']);
-   $droit = htmlspecialchars($_POST['droit']);
+   
 
    
    if(!empty($_POST['pseudo']) && !empty($_POST['mail']) && !empty($_POST['mail2']) && !empty($_POST['mdp']) && !empty($_POST['mdp2']) ) {
