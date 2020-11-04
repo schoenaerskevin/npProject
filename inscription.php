@@ -52,7 +52,7 @@ if(isset($_POST['forminscription'])) {
       } else {
          $erreur = "Votre pseudo ne doit pas dépasser 255 caractères !";
       }
-   } else {
+    } else {
       $erreur = "Tous les champs doivent être complétés !";
    }
 }
